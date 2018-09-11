@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.smartlearn.platform",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "SmartLearnPlatform",
+    "packageName": "com.smartlearn.platform",
+    "packageFolder": "com/smartlearn/platform",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "c90fb93a8acc979ea4de7ff6611588039beac8ab8c05503f50b24d164967d7251167db30dec0bca4a736aaa42ab1d35f07c3",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "sr"
+    ]
+  }
+}
